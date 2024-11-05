@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--<h1 align="center">Hi 👋, I'm Payal Pawar</h1>
+Hi 👋, I'm Payal Pawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently studying **Computer Engineering**
