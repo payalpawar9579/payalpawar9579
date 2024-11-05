@@ -11,6 +11,9 @@
       <ul>
         <li>🔭 I’m currently studying <strong>Computer Engineering</strong></li>
         <li>📫 How to reach me: <strong>payalpawar9579@gmail.com</strong></li>
+        <li>🌱 I’m currently studying <strong>Computer Engineering</strong></li>
+                        <li>🛠️ Creativity and coding are my perfect blend</li>
+                        <li>📩 Let's connect: <strong>payalpawar9579@gmail.com</strong></li>
       </ul>
     </td>
     <td align="right" width="40%">
