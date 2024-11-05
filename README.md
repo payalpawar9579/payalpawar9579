@@ -2,12 +2,20 @@
   Hi 👋, I'm Payal Pawar
 </h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="500" height="300"/>
-</p>
-- 🔭 I’m currently studying **Computer Engineering**
 
-- 📫 How to reach me **payalpawar9579@gmail.com**
+<table>
+  <tr>
+    <td align="left" width="60%">
+      <ul>
+        <li>🔭 I’m currently studying <strong>Computer Engineering</strong></li>
+        <li>📫 How to reach me: <strong>payalpawar9579@gmail.com</strong></li>
+      </ul>
+    </td>
+    <td align="right" width="40%">
+      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="500" height="300"/>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
