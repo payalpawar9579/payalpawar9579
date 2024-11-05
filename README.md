@@ -1,10 +1,4 @@
 
-
-
-Share
-
-
-You said:
 ![logo](https://github.com/payalpawar9579/payalpawar9579/blob/main/githubbanner.png)
 <h1 align="center">
   Hi 👋, I'm Payal Pawar
