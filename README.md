@@ -19,8 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Social media links go here if needed -->
+  <a href="https://www.instagram.com/payal_pixelize/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
