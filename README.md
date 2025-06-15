@@ -1,9 +1,35 @@
-<div style="text-align:center;">
-  <img
-    src="https://i.pinimg.com/736x/ab/cd/ef/abcdef1234567890abcdef1234567890.jpg"
-    alt="Your Pinterest Image"
-  />
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Centered Hacker Icon</title>
+  <style>
+    /* Full-screen flex container */
+    body, html {
+      height: 100%;
+      margin: 0;
+    }
+    .center-container {
+      display: flex;
+      justify-content: center; /* horizontal centering */
+      align-items: center;     /* vertical centering */
+      height: 100%;
+    }
+    .center-container img {
+      max-width: 80vmin;       /* scale responsively */
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="center-container">
+    <!-- Point to wherever you hosted the downloaded file -->
+    <img src="/images/hacker-icon.svg" alt="Hacker Operating Laptop" />
+  </div>
+</body>
+</html>
+
 
 
 <p align="center">
