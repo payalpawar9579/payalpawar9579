@@ -3,8 +3,16 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Payal Pawar
 </h1>
-          <ul align="left">
-            <li>RESUME <strong> </strong> 💻</li> https://drive.google.com/file/d/1IH1hZUm5gQGDy6gD3FJBpOwBcOMNMHPc/view?usp=drive_link        </ul>
+<div class="github-bio">
+  <p>👩‍💻 <strong>Payal S. Pawar</strong> | Final-year Computer Engineering @ PCCOE</p>
+  <ul style="list-style: none; padding: 0; margin: 0;">
+    <li>📄 <a href="https://drive.google.com/file/d/1IH1hZUm5gQGDy6gD3FJBpOwBcOMNMHPc/view?usp=drive_link" target="_blank">Resume</a></li>
+    <li>⚙️ Python · AI/ML · Cloud (AWS &amp; Azure) · React · GenAI</li>
+    <li>🏆 Smart India Hackathon ’24 Winner · Open-source Enthusiast</li>
+  </ul>
+</div>
+
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🏆+Smart+India+Hackathon+Winner;🎯+MLSC+Management+Head;💻+Passionate+Coder;🌱+Continuous+Learner" alt="Typing SVG" />
