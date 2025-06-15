@@ -12,6 +12,7 @@
         <li>🔭 I’m currently studying <strong>Computer Engineering</strong></li>
         <li>📫 How to reach me: <strong>payalpawar9579@gmail.com</strong></li>
         <li>🌱 I’m currently studying <strong>Computer Engineering</strong></li>
+         <li>🌱 Resume Link: https://drive.google.com/file/d/1IH1hZUm5gQGDy6gD3FJBpOwBcOMNMHPc/view?usp=drive_link </strong></li>
                         <li>🛠️ Creativity and coding are my perfect blend</li>
                         <li>📩 Let's connect: <strong>payalpawar9579@gmail.com</strong></li>
       </ul>
