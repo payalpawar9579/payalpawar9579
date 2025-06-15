@@ -4,11 +4,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Payal Pawar
 </h1>
 <div class="github-bio">
-  <p>👩‍💻 <strong>Payal S. Pawar</strong> | Final-year Computer Engineering @ PCCOE</p>
   <ul style="list-style: none; padding: 0; margin: 0;">
     <li>📄 <a href="https://drive.google.com/file/d/1IH1hZUm5gQGDy6gD3FJBpOwBcOMNMHPc/view?usp=drive_link" target="_blank">Resume</a></li>
-    <li>⚙️ Python · AI/ML · Cloud (AWS &amp; Azure) · React · GenAI</li>
-    <li>🏆 Smart India Hackathon ’24 Winner · Open-source Enthusiast</li>
   </ul>
 </div>
 
