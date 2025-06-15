@@ -7,6 +7,7 @@
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <h3 align="center">WINNER OF SMART INDIA HACKATHON</h3>
+<h3 align="center">MICROSOFT LEARN STUDENT CHAPTER MANAGEMENT HEAD</h3>
 
 
 <table>
