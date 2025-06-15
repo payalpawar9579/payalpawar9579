@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://in.pinterest.com/pin/152840981095140152/" alt="Typing SVG" />
-</h1>
+<div style="text-align:center;">
+  <img
+    src="https://i.pinimg.com/736x/ab/cd/ef/abcdef1234567890abcdef1234567890.jpg"
+    alt="Your Pinterest Image"
+  />
+</div>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
