@@ -19,12 +19,6 @@
   <a href="https://github.com/payalpawar9579">
     <img src="https://komarev.com/ghpvc/?username=payalpawar9579&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://github.com/payalpawar9579?tab=followers">
-    <img src="https://img.shields.io/github/followers/payalpawar9579?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/payalpawar9579">
-    <img src="https://img.shields.io/github/stars/payalpawar9579?label=Stars&style=social" alt="GitHub Stars">
-  </a>
 </div>
 
 <br>
