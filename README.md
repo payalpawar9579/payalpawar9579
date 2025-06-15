@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=payalpawar9579&label=Profile%20Views&color=5D3FD3&style=flat" alt="payalpawar9579" /> 
-  <a href="https://github.com/payalpawar9579?tab=followers"><img src="https://img.shields.io/github/followers/payalpawar9579?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
 
 ---
