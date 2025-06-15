@@ -131,28 +131,3 @@
 </div>
 
 <br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payalpawar9579&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payalpawar9579&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=payalpawar9579&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=payalpawar9579&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" width="90%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=payalpawar9579&theme=radical" alt="GitHub Profile Summary" width="90%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/payalpawar9579/payalpawar9579/blob/main/githubbanner.png" alt="Footer Banner"/>
-</div>
