@@ -6,6 +6,9 @@
 <div class="github-bio">
   <ul style="list-style: none; padding: 0; margin: 0;">
     <li>📄 <a href="https://drive.google.com/file/d/1IH1hZUm5gQGDy6gD3FJBpOwBcOMNMHPc/view?usp=drive_link" target="_blank">Resume</a></li>
+    <li>📄 <a href="https://payalpawar9579.github.io/portfolio" target="_blank">Portfolio</a></li>
+
+    
   </ul>
 </div>
 
